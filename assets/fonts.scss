@@ -1,0 +1,25 @@
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'MantouSans';
+  font-style: normal;
+  font-weight: 100;
+  src: url('../assets/fonts/MantouSans-Regular.ttf'); /* IE9 Compat Modes */
+}
+
+
+// 細體
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'GenSenRounded';
+  font-style: normal;
+  font-weight: 100;
+  src: url('../assets/fonts/GenSenRounded-R.ttc'); /* IE9 Compat Modes */
+}
+
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'GenSenRounded-M';
+  font-style: normal;
+  font-weight: 100;
+  src: url('../assets/fonts/GenSenRounded-M.ttc'); /* IE9 Compat Modes */
+}
